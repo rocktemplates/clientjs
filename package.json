@@ -5,7 +5,7 @@
   "homepage" : "",
   "repository" : {
     "type" : "git", 
-    "url" : ""
+    "url" : "https://github.com/{{github-username}}/{{package-name}}"
   },
   "keywords" : [],
   "author" : "{{author}} <{{email}}>",

@@ -1,19 +1,31 @@
-Node.js - {{package-name}}
+{{package-name}}
 ================
 
-Type description here...
+{{description}}
 
 
 Why?
 ----
 
+(Why did you make this? What problem does it solve?)
 
 
 Installation
 ------------
 
-    npm install {{package-name}}
+#### NPM/Browserify
 
+    npm install --save {{package-name}}
+
+
+### Component
+
+    component install {{github-username}}/{{package-name}}
+
+
+### Bower
+
+    bower install {{package-name}}
 
 
 Example
@@ -31,3 +43,7 @@ License
 Copyright {{date-year}}, {{author}}  <{{email}}>
 
 
+
+[browserify]: https://github.com/substack/node-browserify
+[component]: https://github.com/component/component/wiki/F.A.Q
+[bower]: http://bower.io/
