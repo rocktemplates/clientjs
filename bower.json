@@ -1,0 +1,10 @@
+{
+  "name" : "{{package-name}}", 
+  "version" : "0.0.1",
+  "description" :"{{description}}",
+  "main": "./lib/{{package-name}}.js"
+  "ignore": [
+    "test/",
+    "CHANGELOG.md"
+  ]
+}

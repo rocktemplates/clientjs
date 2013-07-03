@@ -1,0 +1,9 @@
+{
+  "name" : "{{package-name}}", 
+  "version" : "0.0.1",
+  "description" :"{{description}}",
+  "keywords" : [],
+  "scripts": [
+    "./lib/{{package-name}}.js"
+  ]
+}
