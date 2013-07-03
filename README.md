@@ -13,17 +13,17 @@ Why?
 Installation
 ------------
 
-#### NPM/Browserify
+#### [NPM/Browserify][browserify]
 
     npm install --save {{package-name}}
 
 
-### Component
+### [Component][component]
 
     component install {{github-username}}/{{package-name}}
 
 
-### Bower
+### [Bower][bower]
 
     bower install {{package-name}}
 
